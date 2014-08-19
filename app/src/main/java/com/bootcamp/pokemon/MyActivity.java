@@ -56,7 +56,6 @@ public class MyActivity extends ActionBarActivity {
         pokemon_02 = (ImageView) findViewById(R.id.imagen_pokemon_02);
         vida_02 = (TextView)findViewById(R.id.texto_vida_02);
 
-
         /*evento de jiglipuf*/
         pokemon_02.setOnClickListener(new View.OnClickListener() {
             @Override
